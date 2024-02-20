@@ -76,7 +76,7 @@ x-casaos:
     - amd64
     - arm64
   author: WisdomSky
-  category: Developer
+  category: Database
   description:
     ar_sa: >
       خادم MariaDB هو واحد من أكثر قواعد البيانات العلاقية مفتوحة المصدر شهرةً.
